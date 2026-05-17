@@ -248,7 +248,7 @@ The project also demonstrates practical implementation of:
   
 # Author
 
--Name:Jubaida Begum
--Department:CSE
--Institution: Leading University, Sylhet
--Project Title:Smart Washing Machine(Advanced)–Fuzzy Logic System
+**Name:** Jubaida
+**Department:** CSE
+**Institution:** Leading University,Sylhet
+**Project Title:** Smart Washing Machine(Advanced)–Fuzzy Logic System
